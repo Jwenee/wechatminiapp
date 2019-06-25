@@ -1,0 +1,21 @@
+/* pages/about/about.wxss */
+.about{
+  width:750rpx;
+  height:100%;
+  
+}
+.vendor{
+  position: absolute;
+  top:800rpx;
+  left:500rpx;
+  height:70rpx;
+  width:190rpx;
+  z-index: 99;
+}
+.nav{
+  height:70rpx;
+}
+page{
+  background-size:100% 100%; 
+  background-image: url("http://04imgmini.eastday.com/mobile/20180916/20180916175925_44692ab14b82c6f0acd422f4bafd2b00_3.jpeg")
+}
